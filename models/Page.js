@@ -19,3 +19,5 @@ const Page = db.define('page', {
     defaultValue: 'OPEN'
    }
 })
+
+module.exports = Page;
